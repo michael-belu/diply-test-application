@@ -1,0 +1,14 @@
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\bin\Debug\DiplyTestApp.exe.config
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\bin\Debug\DiplyTestApp.exe
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\bin\Debug\DiplyTestApp.pdb
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\obj\Debug\DiplyTestApp.csprojResolveAssemblyReference.cache
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\obj\Debug\DiplyTestApp.exe
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\obj\Debug\DiplyTestApp.pdb
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\bin\Debug\nunit.framework.dll
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\bin\Debug\nunit.framework.xml
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\bin\Debug\chromedriver.exe
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\bin\Debug\chromedriver-license.txt
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\bin\Debug\WebDriver.dll
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\bin\Debug\WebDriver.xml
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\bin\Debug\WebDriver.Support.dll
+E:\Dev Environment\Michael\diply\diply_console_app_v0.4\DiplyTestApp\DiplyTestApp\bin\Debug\WebDriver.Support.xml
