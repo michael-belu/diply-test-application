@@ -1,1 +1,0 @@
-# diply-test-application
